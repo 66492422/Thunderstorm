@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="908f94f9-dbd1-4257-9132-a87df339408f" name="默认更改列表" comment="" />
+    <list default="true" id="908f94f9-dbd1-4257-9132-a87df339408f" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/src/xyz/dmmy/thunderstorm/PluginMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xyz/dmmy/thunderstorm/PluginMain.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +22,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1cyUlo3pvtUtePN9MuLDoc3DPVl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -28,6 +34,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -52,6 +59,7 @@
       <updated>1591500479811</updated>
       <workItem from="1591500485369" duration="8689000" />
       <workItem from="1591509318458" duration="35969000" />
+      <workItem from="1591587211326" duration="175000" />
     </task>
     <servers />
   </component>
@@ -63,6 +71,10 @@
       <screen x="0" y="30" width="1280" height="770" />
     </state>
     <state x="445" y="124" key="#com.intellij.ide.util.MemberChooser/0.30.1280.770@0.30.1280.770" timestamp="1591514438133" />
+    <state x="188" y="30" key="CommitChangelistDialog2" timestamp="1591587394727">
+      <screen x="0" y="30" width="1280" height="770" />
+    </state>
+    <state x="188" y="30" key="CommitChangelistDialog2/0.30.1280.770@0.30.1280.770" timestamp="1591587394727" />
     <state x="420" y="169" key="FileChooserDialogImpl" timestamp="1591587109101">
       <screen x="0" y="30" width="1280" height="770" />
     </state>
