@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Thunderstorm:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Thunderstorm_jar</output-path>
+    <root id="archive" name="Thunderstorm.jar">
+      <element id="module-output" name="Thunderstorm" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>

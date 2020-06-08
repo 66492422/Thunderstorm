@@ -1,0 +1,14 @@
+api-version: 1.15
+name: Thunderstorm
+main: xyz.dmmy.thunderstorm.PluginMain
+version: 1.1
+
+commands:
+  thunderstorm_night:
+    description: 调用此指令可设置入夜后是否必定为雷暴之夜
+    usage: /thunderstorm_night [true|false]
+
+permissions:
+  xyz.dmmy.thunderstorm.thunderstorm_night:
+    description: 允许设置入夜后是否必定为雷暴之夜
+    default: op

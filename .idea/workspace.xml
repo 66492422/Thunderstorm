@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Thunderstorm:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="908f94f9-dbd1-4257-9132-a87df339408f" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cyUlo3pvtUtePN9MuLDoc3DPVl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Forge\Thunderstorm\lib" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="908f94f9-dbd1-4257-9132-a87df339408f" name="默认更改列表" comment="" />
+      <created>1591500479811</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591500479811</updated>
+      <workItem from="1591500485369" duration="8689000" />
+      <workItem from="1591509318458" duration="35969000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="445" y="124" key="#com.intellij.ide.util.MemberChooser" timestamp="1591514438133">
+      <screen x="0" y="30" width="1280" height="770" />
+    </state>
+    <state x="445" y="124" key="#com.intellij.ide.util.MemberChooser/0.30.1280.770@0.30.1280.770" timestamp="1591514438133" />
+    <state x="420" y="169" key="FileChooserDialogImpl" timestamp="1591587109101">
+      <screen x="0" y="30" width="1280" height="770" />
+    </state>
+    <state x="420" y="169" key="FileChooserDialogImpl/0.30.1280.770@0.30.1280.770" timestamp="1591587109101" />
+    <state x="240" y="30" key="SettingsEditor" timestamp="1591504558046">
+      <screen x="0" y="30" width="1280" height="770" />
+    </state>
+    <state x="240" y="30" key="SettingsEditor/0.30.1280.770@0.30.1280.770" timestamp="1591504558046" />
+    <state x="296" y="188" width="672" height="677" key="run.anything.popup" timestamp="1591523507162">
+      <screen x="0" y="30" width="1280" height="770" />
+    </state>
+    <state x="296" y="188" width="672" height="677" key="run.anything.popup/0.30.1280.770@0.30.1280.770" timestamp="1591523507162" />
+    <state x="303" y="121" width="672" height="678" key="search.everywhere.popup" timestamp="1591572130994">
+      <screen x="0" y="30" width="1280" height="770" />
+    </state>
+    <state x="303" y="121" width="672" height="678" key="search.everywhere.popup/0.30.1280.770@0.30.1280.770" timestamp="1591572130994" />
+  </component>
+</project>
