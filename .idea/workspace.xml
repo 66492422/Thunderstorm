@@ -7,7 +7,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="908f94f9-dbd1-4257-9132-a87df339408f" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/plugin.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/xyz/dmmy/thunderstorm/PluginMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xyz/dmmy/thunderstorm/PluginMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xyz/dmmy/thunderstorm/ThunderstormNight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xyz/dmmy/thunderstorm/ThunderstormNight.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +62,8 @@
       <updated>1591500479811</updated>
       <workItem from="1591500485369" duration="8689000" />
       <workItem from="1591509318458" duration="35969000" />
-      <workItem from="1591587211326" duration="175000" />
+      <workItem from="1591587211326" duration="237000" />
+      <workItem from="1591676633722" duration="223000" />
     </task>
     <servers />
   </component>

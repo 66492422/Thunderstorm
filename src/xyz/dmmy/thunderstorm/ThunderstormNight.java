@@ -5,6 +5,7 @@ import org.bukkit.Location;
 import org.bukkit.World;
 import org.bukkit.entity.Entity;
 import org.bukkit.entity.EntityType;
+import org.bukkit.entity.LivingEntity;
 import org.bukkit.entity.Player;
 import org.bukkit.plugin.java.JavaPlugin;
 import org.bukkit.scheduler.BukkitTask;
@@ -134,9 +135,8 @@ public class ThunderstormNight implements WorldTimeEvent {
 
     private void RandomLightning() {
         Random random = new Random();
-        for (Entity entity : mWorld.getEntities()) {
+        for (LivingEntity entity : mWorld.getLivingEntities()) {
             int probability;
-
             if (entity.getType() != EntityType.PLAYER) {
                 //非玩家雷击概率
                 probability = mConfig.getInt("thunderstorm_night.random_lightning.probability.other", 20);

@@ -18,7 +18,7 @@ public class PluginMain extends JavaPlugin implements CommandExecutor {
 
     @Override
     public void onEnable() {
-        getLogger().info("【雷暴之夜1.2】作者：短毛猫 Email：66492422@qq.com shortmeowmeow@gmail.com 开源：https://github.com/66492422/Thunderstorm");
+        getLogger().info("【雷暴之夜1.2.1】作者：短毛猫 Email：66492422@qq.com shortmeowmeow@gmail.com 开源：https://github.com/66492422/Thunderstorm");
 
         UtilityConfig mConfig = new UtilityConfig(this);
 
